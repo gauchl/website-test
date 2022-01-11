@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages BLA BLA
+## Welcome to GitHub Pages BLA BLA GAU
 
 You can use the [editor on GitHub](https://github.com/gauchl/website-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
